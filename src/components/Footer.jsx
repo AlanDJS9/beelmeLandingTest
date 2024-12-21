@@ -18,7 +18,7 @@ const Footer = () => {
             href="#"
             className="text-2xl font-bold relative p-1 bg-footer text-white"
           >
-            Power<span className="text-primary text-5xl">.</span>{" "}
+            beelme<span className="text-primary text-5xl">.</span>{" "}
           </a>
         </div>
         {/* Social media */}
@@ -92,9 +92,10 @@ const Footer = () => {
       </div>
       <div className="mt-20">
         <p className="text-gray-300 text-center">
-          © jotredev 2022 - All Rights Reserved
+        made in México - compiled in Canada - maquinix 2024 © - all rights reserved
         </p>
       </div>
+    
     </footer>
   );
 };

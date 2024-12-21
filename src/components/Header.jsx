@@ -12,8 +12,7 @@ const Header = () => {
     <header className="flex items-center justify-between xl:justify-start w-full py-4 px-8 h-[10vh] z-50">
       <div className="xl:w-1/6 text-center -mt-4">
         <a href="#" className="text-2xl font-bold relative p-1 bg-white">
-          Power<span className="text-primary text-5xl">.</span>{" "}
-          <RiCheckboxBlankCircleFill className="absolute -left-3 -bottom-3 text-primary -z-10" />
+          beelme<span className="text-primary text-5xl">.</span>{" "}
         </a>
       </div>
       <nav
@@ -28,10 +27,10 @@ const Header = () => {
           About Us
         </a>
         <a href="#services" className="">
-          Services
+          Tours
         </a>
         <a href="#aboutUs" className="">
-          Products
+          Services
         </a>
       </nav>
       <button
