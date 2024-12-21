@@ -92,7 +92,7 @@ const Footer = () => {
       </div>
       <div className="mt-20">
         <p className="text-gray-300 text-center">
-        made in México - compiled in Canada - maquinix 2024 © - all rights reserved
+        maquinix 2024 © - all rights reserved
         </p>
       </div>
     

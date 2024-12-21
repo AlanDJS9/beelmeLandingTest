@@ -12,9 +12,10 @@ function App() {
       <Header />
       <Hero />
       <Clients />
-      <Works />
-      <Reviews />
+    
+      
       <Services />
+      <Reviews />
       <Footer />
     </div>
   );
