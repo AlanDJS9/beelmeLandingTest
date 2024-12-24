@@ -5,7 +5,7 @@ import {
   RiInstagramLine,
   RiFacebookLine,
   RiTwitterLine,
-  RiGithubLine,
+  RiLinkedinLine,
 } from "react-icons/ri";
 
 const Footer = () => {
@@ -23,21 +23,13 @@ const Footer = () => {
         </div>
         {/* Social media */}
         <nav className="flex items-center gap-4">
-          <a href="#" className="block text-white p-4 bg-primary rounded-full">
+          <a href="https://www.instagram.com/beelme.app/" target="_blank" rel="noopener noreferrer" className="block text-white p-4 bg-primary rounded-full">
             {" "}
             <RiInstagramLine />{" "}
           </a>
-          <a href="#" className="block text-white p-4 bg-primary rounded-full">
+          <a href="https://www.linkedin.com/company/beelme-app" target="_blank" rel="noopener noreferrer" className="block text-white p-4 bg-primary rounded-full">
             {" "}
-            <RiFacebookLine />{" "}
-          </a>
-          <a href="#" className="block text-white p-4 bg-primary rounded-full">
-            {" "}
-            <RiTwitterLine />{" "}
-          </a>
-          <a href="#" className="block text-white p-4 bg-primary rounded-full">
-            {" "}
-            <RiGithubLine />{" "}
+            <RiLinkedinLine />{" "}
           </a>
         </nav>
       </div>
