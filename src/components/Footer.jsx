@@ -17,8 +17,7 @@ const Footer = () => {
           <a
             href="#"
             className="text-2xl font-bold relative p-1 bg-footer text-white"
-          >
-            beelme<span className="text-primary text-5xl">.</span>{" "}
+          >beelme<span className="text-primary text-5xl">.</span>{" "}
           </a>
         </div>
         {/* Social media */}
