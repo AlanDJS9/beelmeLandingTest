@@ -6,9 +6,9 @@ const Clients = () => {
       <h1 className="text-2xl font-medium text-gray-800 text-center">
 Visit your favorite cities
       </h1>
-      <div className="flex flex-col md:flex-row items-center flex-wrap gap-20">
-        <img src="beeLME1.png" className="w-40" />
+      <div className="flex flex-col md:flex-row items-center flex-wrap gap-30">
         <img src="beeLME2.png" className="w-40" />
+        <img src="beeLME1.png" className="w-40" />
         <img src="beeLME3.png" className="w-40" />
         <img src="beeLME4.png" className="w-40" />
         <img src="beeLME5.png" className="w-40" />

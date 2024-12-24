@@ -15,7 +15,8 @@ const Hero = () => {
       <div className="md:col-span-5 flex items-center justify-center p-8 xl:p-16">
         <div className="flex flex-col gap-8">
           <h1 className="text-5xl xl:text-7xl font-bold xl:leading-[7.5rem]">
-          Your Story, Your Tour{" "}
+          Your Story, Your Tour {" "}
+          <br/>
             <span className="text-primary py-2 px-6 border-8 border-primary relative inline-block">
             Your México
               <RiCheckboxBlankCircleFill className="text-white text-base absolute -left-5 -top-5 p-2 bg-primary rounded-full box-content" />
