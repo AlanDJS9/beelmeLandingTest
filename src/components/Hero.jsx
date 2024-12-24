@@ -49,23 +49,23 @@ const Hero = () => {
           <div className="relative bg-white shadow-xl rounded-lg p-4 flex flex-col justify-center gap-2 max-w-[250px] mx-auto -mt-12">
             <div className="flex items-center">
               <img
-                src="https://img.freepik.com/foto-gratis/empresaria-confiada-sonriente-que-presenta-brazos-cruzados_1262-20950.jpg"
+                src="https://img.freepik.com/free-photo/view-mexican-urban-architecture-culture_23-2149749981.jpg"
                 className="w-10 h-10 object-cover rounded-full ring-2 ring-gray-300"
               />
               <img
-                src="https://img.freepik.com/foto-gratis/hombre-barbudo-feliz-sorprendido-camisa-apuntando-lejos_171337-5021.jpg"
+                src="https://img.freepik.com/free-photo/beautiful-mexican-guanajuato-city-with-colorful-buildings-surrounded-by-mountains_181624-59109.jpg"
                 className="w-10 h-10 object-cover rounded-full ring-2 ring-gray-300 -ml-4"
               />
               <img
-                src="https://img.freepik.com/foto-gratis/retrato-hombre-afroamericano-inteligente-profesional-pie-manos-cruzadas-sobre-pecho-pose-confianza_176420-33861.jpg"
+                src="https://img.freepik.com/free-photo/ruins-ancient-mayan-civilization-chichen-itza-mexico_181624-49563.jpg"
                 className="w-10 h-10 object-cover rounded-full ring-2 ring-gray-300 -ml-4"
               />
               <img
-                src="https://img.freepik.com/foto-gratis/feliz-joven_1098-20869.jpg"
+                src="https://img.freepik.com/free-photo/vertical-shot-palace-fine-arts-mexico_181624-48463.jpg"
                 className="w-10 h-10 object-cover rounded-full ring-2 ring-gray-300 -ml-4"
               />
               <img
-                src="https://img.freepik.com/foto-gratis/negocios-finanzas-empleo-concepto-mujeres-emprendedoras-exitosas-joven-empresaria-segura-anteojos-mostrando-gesto-pulgar-arriba-sostenga-computadora-portatil-garantice-mejor-calidad-servicio_1258-59118.jpg"
+                src="https://img.freepik.com/free-photo/cathedral-saint-mary-castellon-de-la-plana-night_1398-2361.jpg"
                 className="w-10 h-10 object-cover rounded-full ring-2 ring-gray-300 -ml-4"
               />
             </div>
